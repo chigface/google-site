@@ -1,0 +1,95 @@
+body {
+	padding: 0px 10px 0px 10px;
+	font-family: arial, sans-serif;
+}
+ul {
+	list-style: none;
+	float: right;
+	padding: 20px;
+}
+ul li {
+	display: inline;
+	padding-left: 10px;
+}
+.clearfloat {
+	clear: left;
+	text-align: center;
+	font-size: 80px;
+	opacity: 0.7;
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: red;
+}
+.yellow {
+	color: yellow
+}
+.green {
+	color: green;
+}
+div input {
+	display: block;
+	margin: auto;
+	width: 45%;
+	padding: 10px 10px;
+	border: 1px solid #DCDCDC;
+	box-shadow: 1px 1px 1px #C0C0C0;
+}
+div input:hover {
+	box-shadow: 1px 1px 10px #C0C0C0;
+}	
+a {
+	color: black;
+	text-decoration: none;
+}
+.btn {
+	display: block;
+	padding: 10px;
+}
+button {
+	padding: 8px;
+	background: #F5F5F5;
+	border: none;
+	color: #A9A9A9;
+	text-align: center;
+}
+button:hover {
+	border: 1px solid #DCDCDC;
+	border-radius: 2px;
+	box-shadow: 1px 1px 4px #C0C0C0;
+	color: black;
+}
+.center {
+	text-align: center;
+}
+p a {
+	color: blue;
+	padding: 5px;
+}
+.footer {
+	background-color: #F5F5F5;
+	position: absolute;
+	bottom: 0px;
+	right: 0;
+	left: 0;
+	border: 1px solid #DCDCDC;
+}
+section {
+	display: inline-block;
+	margin: 10px;
+}
+.sec2 {
+	float: right;
+}
+div section a {
+	padding: 10px;
+}
+.nig {
+	display: block;
+	position: absolute;
+	right: 550px;
+	top: 275px;
+	color: #1E90FF;
+}
